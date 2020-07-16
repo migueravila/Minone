@@ -1,23 +1,23 @@
 {
-	"name": "Relaxed",
-	"displayName": "Monokai Vibrant",
-	"description": "A very dark and overly vibrant Monokai theme with italicized keywords and operators.",
-	"version": "0.5.0",
-	"publisher": "s3gf4ult",
+	"name": "ForestedColors",
+	"displayName": "Forested Colors",
+	"description": "A Relaxed Color-Scheme for Terminal Emulators and Code Editors",
+	"version": "0.0.1",
+	"publisher": "miguelravila",
 	"icon": "images/icon.png",
-	"author": "Dylan Marsh <dylan@knoware.co>",
+	"author": "Miguel R. Ávila <miguellravila@gmail.com>",
 	"license": "MIT",
 	"galleryBanner": {
-		"color": "#F5B800"
+		"color": "#3bbf7d"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/dylantmarsh/monokai-vibrant.git"
+		"url": "https://github.com/MiguelRAvila/ForestedColors.git"
 	},
 	"bugs": {
-		"url": "https://github.com/dylantmarsh/monokai-vibrant/issues"
+		"url": "https://github.com/MiguelRAvila/ForestedColors/issues"
 	},
-	"homepage": "https://github.com/dylantmarsh/monokai-vibrant/blob/master/README.md",
+	"homepage": "https://github.com/MiguelRAvila/ForestedColors",
 	"engines": {
 		"vscode": "^1.15.0"
 	},
@@ -26,22 +26,22 @@
 	],
 	"keywords": [
 		"Theme",
-		"Vibrant",
-		"Monokai",
-		"Operator"
+		"Relaxed",
+		"Simple",
+		"Forested"
 	],
 	"contributes": {
 		"themes": [
 			{
-				"label": "Monokai Vibrant",
+				"label": "Forested Colors",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Monokai Vibrant-color-theme.json"
+				"path": "./themes/forestedcolors-color-theme.json"
 			}
 		]
 	},
 	"__metadata": {
-		"id": "40ae5cb7-e0d1-4d3d-b44f-1bea5279c6d7",
-		"publisherId": "e17173b9-9682-4213-ba62-13296c84b6f3",
-		"publisherDisplayName": "s3gf4ult"
+		"id": "",
+		"publisherId": "",
+		"publisherDisplayName": "Miguel R. Ávila"
 	}
 }
