@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
     <Identity Language="en-US" Id="forestedcolors" Version="0.0.1" Publisher="miguelravila"/>
-    <DisplayName>Forested Colors</DisplayName>
+    <DisplayName>Rosetta</DisplayName>
     <Description xml:space="preserve">A Relaxed Color-Scheme for Terminal Emulators and Code Editors.</Description>
     <Tags>theme,color-theme</Tags>
     <Categories>Themes</Categories>
