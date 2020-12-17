@@ -20,5 +20,5 @@ The theme is available in the [VSCode Marketplace](https://marketplace.visualstu
 ## Colors
 
 <p align="center">
-  <img src="https://github.com/MiguelRAvila/Bento/blob/master/assets/preview.png">
+  <img src="https://github.com/MiguelRAvila/Minone/blob/master/images/MinoneColors.png">
 </p>
