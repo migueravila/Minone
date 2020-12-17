@@ -3,6 +3,4 @@
 <b>🌻 Comfortable & Pleasant Color Scheme for Visual Studio Code</b>
 </div>
 
-<p align="center">
-  <img src="https://github.com/MiguelRAvila/Minone/blob/master/images/Head.png">
-</p>
+![header](images/Header.png)
