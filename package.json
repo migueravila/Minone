@@ -15,13 +15,13 @@
     "url": "https://github.com/MiguelRAvila/Minone"
   },
   "bugs": {
-    "url": "https://github.com/MiguelRAvila/Minoneissues"
+    "url": "https://github.com/MiguelRAvila/Minone/issues"
   },
   "galleryBanner": {
     "color": "#1C1B1D",
     "theme": "dark"
   },
-  "icon": "Images/MinoreLogo.png",
+  "icon": "images/MinoneLogo.png",
   "categories": [
     "Themes"
   ],

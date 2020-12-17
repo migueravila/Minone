@@ -4,5 +4,5 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/MiguelRAvila/Minore/blob/master/images/MinoreLogo.png">
+  <img src="https://github.com/MiguelRAvila/Minone/blob/master/images/MinoneLogo.png">
 </p>
