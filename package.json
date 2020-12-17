@@ -18,10 +18,10 @@
     "url": "https://github.com/MiguelRAvila/Minone/issues"
   },
   "galleryBanner": {
-    "color": "#1C1B1D",
+    "color": "#D8D8D8",
     "theme": "dark"
   },
-  "icon": "images/MinoneLogo.png",
+  "icon": "images/Icon.png",
   "categories": [
     "Themes"
   ],
