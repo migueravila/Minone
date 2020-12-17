@@ -3,4 +3,6 @@
 <b>🌻 Comfortable & Pleasant Color Scheme for Visual Studio Code</b>
 </div>
 
-[!](images/Icon.png)
+<p align="center">
+  <img src="https://github.com/MiguelRAvila/Minore/blob/master/Images/MinoreLogo.png">
+</p>
