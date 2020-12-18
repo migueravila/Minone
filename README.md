@@ -5,7 +5,7 @@
 
 ![header](images/Header.png)
 
-> Based one [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
+> Based on [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
 
 ## Features
 

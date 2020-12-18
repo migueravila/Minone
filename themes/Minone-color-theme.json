@@ -208,7 +208,6 @@
         "variable.other.object",
         "variable.other.constant",
         "variable.other.global",
-        "variable.other.readwrite.class",
         "variable.other.readwrite.instance",
         "variable.other.readwrite.batchfile",
         "variable.readwrite",
@@ -219,6 +218,15 @@
       }
     },
     {
+      "name": "Variable Object",
+      "scope": [
+        "variable.other.readwrite.class"
+      ],
+      "settings": {
+        "foreground": "#E5C07B"
+      }
+    },
+    {
       "name": "Other variable",
       "scope": [
         "variable.other",
@@ -226,7 +234,7 @@
         "variable.other.block"
       ],
       "settings": {
-        "foreground": "#D8D8D8"
+        "foreground": "#E06C75"
       }
     },
     {
@@ -327,7 +335,16 @@
         "support.type.property-name.sass"
       ],
       "settings": {
-        "foreground": "#D8D8D8"
+        "foreground": "#E5C07B"
+      }
+    },
+    {
+      "name": "StyleSheet Var value",
+      "scope": [
+        "variable.argument.css"
+      ],
+      "settings": {
+        "foreground": "#61AFEF"
       }
     },
     {
@@ -432,6 +449,13 @@
       }
     },
     {
+      "name": "JSON Value",
+      "scope": "string.quoted.double.json",
+      "settings": {
+        "foreground": "#98C379"
+      }
+    },
+    {
       "name": "Link",
       "scope": "string.detected-link",
       "settings": {
@@ -496,7 +520,7 @@
       "name": "punctuation.definition.list.begin.markdown",
       "scope": "punctuation.definition.list.begin.markdown",
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#98C379"
       }
     },
     {
@@ -535,14 +559,14 @@
       }
     },
     {
-      "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition String",
+      "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition String", 
       "scope": [
         "punctuation.definition.string.begin.markdown",
         "punctuation.definition.string.end.markdown",
         "punctuation.definition.metadata.markdown"
       ],
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#E06C75"
       }
     },
     {
@@ -563,15 +587,66 @@
       "name": "[VSCODE-CUSTOM] Markdown Underline Link/Image",
       "scope": "markup.underline.link.markdown,markup.underline.link.image.markdown",
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#61AFEF"
       }
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
       "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
       "settings": {
+        "foreground": "#98C379"
+      }
+    },
+    {
+      "name": "markup.italic.markdown",
+      "scope": "markup.italic.markdown",
+      "settings": {
+        "fontStyle": "italic",
         "foreground": "#61afef"
       }
-    }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Markdown Quote",
+      "scope": "markup.quote.markdown",
+      "settings": {
+        "foreground": "#5c6370"
+      }
+    },
+    {
+      "name": "[VSCODE-CUSTOM] Markdown Bold",
+      "scope": "markup.bold.markdown",
+      "settings": {
+        "foreground": "#E5C07B"
+      }
+    },
+    {
+      "name": "Markdown underscore-style headers",
+      "scope": [
+        "entity.name.label.cs",
+        "markup.heading.setext.1.markdown",
+        "markup.heading.setext.2.markdown"
+      ],
+      "settings": {
+        "foreground": "#e06c75"
+      }
+    },
+    {
+      "name": "comments",
+      "scope": [
+        "beginning.punctuation.definition.list.markdown.xi"
+      ],
+      "settings": {
+        "foreground": "#7f848e"
+      }
+    },
+    {
+      "name": "string",
+      "scope": [
+        "beginning.punctuation.definition.quote.markdown.xi"
+      ],
+      "settings": {
+        "foreground": "#98c379"
+      }
+    },
   ]
 }
