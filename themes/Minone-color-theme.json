@@ -219,9 +219,7 @@
     },
     {
       "name": "Variable Object",
-      "scope": [
-        "variable.other.readwrite.class"
-      ],
+      "scope": ["variable.other.readwrite.class"],
       "settings": {
         "foreground": "#E5C07B"
       }
@@ -340,9 +338,7 @@
     },
     {
       "name": "StyleSheet Var value",
-      "scope": [
-        "variable.argument.css"
-      ],
+      "scope": ["variable.argument.css"],
       "settings": {
         "foreground": "#61AFEF"
       }
@@ -559,7 +555,7 @@
       }
     },
     {
-      "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition String", 
+      "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition String",
       "scope": [
         "punctuation.definition.string.begin.markdown",
         "punctuation.definition.string.end.markdown",
@@ -632,21 +628,17 @@
     },
     {
       "name": "comments",
-      "scope": [
-        "beginning.punctuation.definition.list.markdown.xi"
-      ],
+      "scope": ["beginning.punctuation.definition.list.markdown.xi"],
       "settings": {
         "foreground": "#7f848e"
       }
     },
     {
       "name": "string",
-      "scope": [
-        "beginning.punctuation.definition.quote.markdown.xi"
-      ],
+      "scope": ["beginning.punctuation.definition.quote.markdown.xi"],
       "settings": {
         "foreground": "#98c379"
       }
-    },
+    }
   ]
 }
